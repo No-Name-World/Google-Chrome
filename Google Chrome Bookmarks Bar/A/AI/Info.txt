@@ -34,6 +34,6 @@ Description:
 /_____/      U
 
 
-Name: Gemini (Google - Bard AI)
-URL: https://gemini.google.com/app
+Name: 
+URL: 
 Description:
