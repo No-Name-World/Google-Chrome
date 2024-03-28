@@ -1,0 +1,15 @@
+Name: Gemini (Google - Bard AI)
+URL: https://gemini.google.com/app
+Description:
+🦄Platform Description:
+⦾ Bard is described as a platform developed by Google.
+⦾ It provides access to Google Chat, enabling users to communicate and collaborate with others in real time.
+
+🦄 AI Capabilities:
+⦾ Google Chat itself is mentioned as not necessarily utilizing advanced AI capabilities.
+⦾ However, it's noted that Google, as a company, heavily invests in artificial intelligence across its products and services.
+
+🦄 AI-driven Features:
+⦾ Despite Google Chat not inherently having advanced AI capabilities, it may incorporate AI-driven features.
+⦾ Examples of these features include smart replies, suggested actions, and natural language processing.
+⦾ These features aim to enhance user experience and productivity within Google Chat.
