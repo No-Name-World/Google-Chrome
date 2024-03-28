@@ -1,3 +1,15 @@
+Name: ChatGPT 
+URL: https://chat.openai.com/
+Description:
+⦾ Represents a significant milestone in the field of natural language processing, offering powerful capabilities for understanding, generating, and interacting with human language in a way that is increasingly indistinguishable from human communication.
+
+      / \__
+     (    @\___
+      /         O
+ /   (_____/
+/_____/      U
+
+
 Name: Gemini (Google - Bard AI)
 URL: https://gemini.google.com/app
 Description:
@@ -13,3 +25,15 @@ Description:
 ⦾ Despite Google Chat not inherently having advanced AI capabilities, it may incorporate AI-driven features.
 ⦾ Examples of these features include smart replies, suggested actions, and natural language processing.
 ⦾ These features aim to enhance user experience and productivity within Google Chat.
+
+
+      / \__
+     (    @\___
+      /         O
+ /   (_____/
+/_____/      U
+
+
+Name: Gemini (Google - Bard AI)
+URL: https://gemini.google.com/app
+Description:
