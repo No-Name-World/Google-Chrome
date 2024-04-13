@@ -1,1 +1,3 @@
-
+- **W3Schools - SQL Tutorial**
+  - **URL**: [https://www.w3schools.com/sql/default.asp]
+  - **Details**: W3Schools offers a comprehensive tutorial on SQL (Structured Query Language), covering basic to advanced topics such as database creation, querying, manipulation, joins, functions, transactions, and more. The tutorial includes examples and exercises to help users learn SQL.
