@@ -1,1 +1,3 @@
-
+- **W3Schools - Java Tutorial**
+  - **URL**: [https://www.w3schools.com/java/default.asp]
+  - **Details**: W3Schools provides a tutorial on Java, covering basic to advanced topics such as syntax, data types, control structures, methods, classes, inheritance, polymorphism, exception handling, and more. The tutorial includes examples and exercises to help learners master Java programming concepts.
