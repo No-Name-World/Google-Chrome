@@ -1,0 +1,3 @@
+- **W3Schools - C Programming Tutorial**
+  - **URL**: [https://www.w3schools.com/c/index.php]
+  - **Details**: W3Schools is a popular online educational platform that provides tutorials, references, and examples for various programming languages, web development technologies, and other topics related to computer science. The C Programming Tutorial on W3Schools offers comprehensive learning resources for beginners and experienced programmers alike. It covers fundamental concepts of the C programming language, syntax, data types, control structures, functions, and more, through interactive examples and exercises.
