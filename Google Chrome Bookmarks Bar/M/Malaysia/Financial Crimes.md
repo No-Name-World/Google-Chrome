@@ -18,11 +18,6 @@
   - **Description**: The National Anti-Financial Crime Centre (NFCC) is responsible for combating financial crimes in Malaysia. Their website likely provides information on financial crime prevention, enforcement efforts, and resources for the public and financial institutions.
 
 
-**Royal Malaysia Police (RMP)**
-   - **URL**: [https://www.rmp.gov.my/]
-   - **Description**: The Royal Malaysia Police (RMP) official portal provides information about the police force in Malaysia. It includes news, services, and resources for the public, such as crime prevention tips, emergency contacts, and community engagement initiatives.
-
-
 **Securities Commission Malaysia (SC)**
    - **URL**: [https://www.sc.com.my/]
    - **Description**: The Securities Commission Malaysia (SC) regulates the securities and capital markets in Malaysia. Their website provides information on market regulations, investor protection, licensing requirements, and market developments.
