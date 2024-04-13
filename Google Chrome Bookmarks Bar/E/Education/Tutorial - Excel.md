@@ -1,1 +1,3 @@
-
+- **W3Schools - Excel Tutorial**
+  - **URL**: [https://www.w3schools.com/excel/index.php]
+  - **Details**: W3Schools provides a tutorial on Microsoft Excel, covering basic to advanced topics such as formulas, functions, formatting, data analysis, charts, pivot tables, macros, and more. The tutorial includes examples and exercises to help users become proficient in using Excel.
