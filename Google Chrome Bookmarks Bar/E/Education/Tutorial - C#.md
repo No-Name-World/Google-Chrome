@@ -1,1 +1,3 @@
-
+- **W3Schools - C++ Tutorial**
+  - **URL**: [https://www.w3schools.com/cpp/default.asp]
+  - **Details**: W3Schools offers a comprehensive tutorial on C++, covering topics such as syntax, variables, data types, operators, loops, functions, classes, and more. It provides interactive examples and exercises to help learners understand and practice C++ programming concepts.
