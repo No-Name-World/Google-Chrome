@@ -10,6 +10,6 @@
   - **URL**: [https://vclock.com/]
   - **Description**: vClock is an online clock and timer tool that allows users to set and customize countdown timers, alarms, and stopwatches. It offers various features for time management and productivity.
 
-- **World Clock & Time Converter**
+- **Widget Launcher - Microsoft Apps**
   - **URL**: [https://apps.microsoft.com/detail/9WZDNCRDQFBT?hl=en-US&gl=US]
   - **Description**: This Microsoft Store app provides users with world clock functionality and time conversion tools. Users can track time in different time zones and convert between different time formats.
