@@ -3,7 +3,7 @@
   - **Description**: This Chrome extension allows users to set countdown timers directly in their browser. It can be used for various purposes such as tracking events, deadlines, or reminders.
 
 - **Time.is**
-  - **URL**: [https://time.is/#google_vignette]
+  - **URL**: [https://time.is]
   - **Description**: Time.is is a website that provides accurate time synchronization and time zone information. Users can check the current time, synchronize their devices, and view time-related data.
 
 - **vClock**
