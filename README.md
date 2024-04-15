@@ -6,7 +6,7 @@ Welcome to the forefront of web browsing innovation! Dive into the extraordinary
 Feel the rush as Chrome catapults you through the digital realm at unparalleled speeds. Say goodbye to loading bars and hello to instant gratification. With Chrome, the web is your playground, waiting to be explored at the speed of thought.
 
 ## 🎨 Intuitive Interface
-Navigate effortlessly through the vast expanse of the internet with Chrome's intuitive design. Every click, and every scroll feels like second nature, guiding you seamlessly through your digital journey. Say goodbye to confusion and hello to clarity.
+Navigate effortlessly through the vast expanse of the internet with Chrome's intuitive design. Every click and every scroll feels like second nature, guiding you seamlessly through your digital journey. Say goodbye to confusion and hello to clarity.
 
 ## 🔒 Top-Notch Security
 Rest easy knowing that your digital sanctuary is guarded by Chrome's fortress-like security features. From phishing protection to automatic updates, Chrome stands as a stalwart defender against online threats, ensuring your peace of mind with every click.
