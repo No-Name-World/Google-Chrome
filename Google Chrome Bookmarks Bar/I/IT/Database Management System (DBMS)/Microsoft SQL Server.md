@@ -1,0 +1,3 @@
+- **Microsoft SQL Server Downloads**
+  - **URL**: [Microsoft SQL Server Downloads](https://www.microsoft.com/en-my/sql-server/sql-server-downloads)
+  - **Description**: Microsoft provides downloads for SQL Server, a relational database management system, on their website. Users can download SQL Server editions, tools, and components for various platforms and editions, including SQL Server Express, Developer, and Enterprise.
