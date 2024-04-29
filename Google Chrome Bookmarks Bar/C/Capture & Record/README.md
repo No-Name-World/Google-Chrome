@@ -10,6 +10,10 @@
   - **Extension URL**: [https://chromewebstore.google.com/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj]
   - **Details**: Nimbus Screenshot & Screen Video Recorder is a comprehensive tool for capturing screenshots and recording screen videos. It offers features such as capturing full web pages, editing screenshots with annotations, and recording screen videos with audio. It is available as a browser extension for Chrome and Firefox, as well as a standalone desktop application for Windows.
 
+- **ScreenPal**
+  - **URL**: [https://screenpal.com](https://screenpal.com)
+  - **Details**: ScreenPal is a platform that offers screen recording and sharing services. Users can capture their screens, annotate recordings, and share them with others. It's useful for creating tutorials, presentations, and demonstrations.
+
 - **Windows + Alt + R**
   - **Details**: This keyboard shortcut is a built-in feature in Windows 10 for quickly starting and stopping screen recording. When pressed, it initiates the recording of the screen activity, allowing users to capture gameplay, tutorials, or any other on-screen activity. This feature is particularly useful for gamers and content creators who want to capture their screens without using third-party software.
 
