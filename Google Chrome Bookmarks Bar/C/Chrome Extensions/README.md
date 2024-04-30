@@ -1,8 +1,6 @@
 ## Adblock Plus
 
-<div align="center">
-    <img src="https://img.icons8.com/color/452/ad-blocking.png" alt="Adblock Plus Icon" width="100px"/>
-</div>
+
 
 - **Extension URL**: [Adblock Plus](https://adblockplus.org/)
 - **Details**: Adblock Plus is a popular browser extension that blocks annoying ads, banners, pop-ups, and video ads. It helps improve browsing speed and protects users' privacy by blocking tracking scripts.
