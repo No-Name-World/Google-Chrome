@@ -65,7 +65,7 @@
 - **Details**: Messenger, bridging connections. Send messages, make calls, share moments, and stay connected with friends and businesses, all within a vibrant and dynamic messaging experience.
 
 
-- **Meta Business Suite** 
+## **Meta Business Suite** 
 
 - **URL**: [Discover Meta Business Suite](https://business.facebook.com/)
 
@@ -84,11 +84,13 @@
 
 ---
 
-- **WhatsApp Web** 
+## **WhatsApp Web** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/whatsapp--v1.png" alt="WhatsApp Web Icon" width="100px"/>
 </div>
+
 - **URL**: [Access WhatsApp Web](https://web.whatsapp.com/)
+
 - **Details**: WhatsApp Web, extending connections. Send messages, make calls, and share media seamlessly from your computer's browser, keeping conversations alive, wherever you are.
 
 ---
@@ -102,9 +104,11 @@
 
 ---
 
-- **WeChat Weixin Web** 
+# **WeChat Weixin Web** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/wechat-app.png" alt="WeChat Web Icon" width="100px"/>
 </div>
+
 - **URL**: [Discover WeChat Web](https://web.wechat.com/)
+
 - **Details**: WeChat Web, bridging distances. Send messages, make calls, and share moments seamlessly from your browser, keeping connections strong and conversations flowing.
