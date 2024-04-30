@@ -11,7 +11,7 @@
 ## Gemini (Google Bard)
 
 <div align="center">
-    <img src="https://img.icons8.com/color/452/google-logo.png" alt="Gemini Icon" width="100px"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flong-sweet-valuable%2Fgoogle-rebranded-bard-into-gemini-6bd88c0b8243&psig=AOvVaw2-Ko74N-jk5MCTKinnuG_c&ust=1714548315240000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCjpK206YUDFQAAAAAdAAAAABAJ" alt="Gemini Icon" width="100px"/>
 </div>
 
 - **URL**: [Gemini (Google Bard)](https://gemini.google.com/app)
