@@ -45,7 +45,7 @@
 ## Keep Awake
 
 <div align="center">
-    <img src="https://img.icons8.com/color/452/no-sleep.png" alt="Keep Awake Icon" width="100px"/>
+    <img src="https://img.icons8.com/color/452/alarm-clock.png" alt="Keep Awake Icon" width="100px"/>
 </div>
 
 - **Extension URL**: [Keep Awake](https://chromewebstore.google.com/detail/keep-awake/bijihlabcfdnabacffofojgmehjdielb?utm_source=ext_sidebar&hl=en-US)
