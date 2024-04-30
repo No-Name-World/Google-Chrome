@@ -54,6 +54,6 @@
   - **Details**: Telegram Web, your messaging sanctuary. Send messages, create group chats, share media, and explore a world of stickers and bots, all within your browser.
 
 - **WeChat Weixin Web** 
-  ![WeChat Web Icon](https://img.icons8.com/color/452/weixin.png)
+  ![WeChat Web Icon](https://img.icons8.com/color/452/wechat.png)
   - **URL**: [Discover WeChat Web](https://web.wechat.com/)
   - **Details**: WeChat Web, bridging distances. Send messages, make calls, and share moments seamlessly from your browser, keeping connections strong and conversations flowing.
