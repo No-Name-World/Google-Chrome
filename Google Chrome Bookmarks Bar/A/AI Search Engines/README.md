@@ -1,9 +1,5 @@
 ## ChatGPT 3.5
 
-<div align="center">
-    <img src="https://img.icons8.com/color/452/openai.png" alt="ChatGPT Icon" width="100px"/>
-</div>
-
 - **URL**: [ChatGPT 3.5](https://chat.openai.com)
 - **Details**: ChatGPT 3.5 is a large language model developed by OpenAI, designed to understand and generate human-like text based on the input it receives. It can be used for various natural language processing tasks, including answering questions, generating content, and providing assistance.
 
