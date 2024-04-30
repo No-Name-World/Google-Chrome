@@ -1,11 +1,11 @@
-- **Discord** 
+## **Discord** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/discord-logo.png" alt="Discord Icon" width="100px"/>
 </div>
 
-    - **URL**: [Join Discord](https://discord.com/channels/@me)
+ - **URL**: [Join Discord](https://discord.com/channels/@me)
 
-    - **Details**: Discord is where communities thrive. It offers text, voice, and video chat services, making it the ultimate hub for gamers and enthusiasts to connect, strategize, and socialize.
+ - **Details**: Discord is where communities thrive. It offers text, voice, and video chat services, making it the ultimate hub for gamers and enthusiasts to connect, strategize, and socialize.
 
 ---
 
