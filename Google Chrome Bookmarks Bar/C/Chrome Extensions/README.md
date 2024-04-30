@@ -1,7 +1,5 @@
 ## Adblock Plus
 
-
-
 - **Extension URL**: [Adblock Plus](https://adblockplus.org/)
 - **Details**: Adblock Plus is a popular browser extension that blocks annoying ads, banners, pop-ups, and video ads. It helps improve browsing speed and protects users' privacy by blocking tracking scripts.
 
@@ -31,20 +29,12 @@
 
 ## Dark Reader
 
-<div align="center">
-    <img src="https://img.icons8.com/color/452/dark-mode.png" alt="Dark Reader Icon" width="100px"/>
-</div>
-
 - **Extension URL**: [Dark Reader](https://darkreader.org/)
 - **Details**: Dark Reader is a browser extension that enables dark mode for websites. It converts bright webpages into dark themes, reducing eye strain and improving readability, especially in low-light environments.
 
 ---
 
 ## Keep Awake
-
-<div align="center">
-    <img src="https://img.icons8.com/color/452/alarm-clock.png" alt="Keep Awake Icon" width="100px"/>
-</div>
 
 - **Extension URL**: [Keep Awake](https://chromewebstore.google.com/detail/keep-awake/bijihlabcfdnabacffofojgmehjdielb?utm_source=ext_sidebar&hl=en-US)
 - **Details**: Keep Awake is a browser extension that prevents the computer from going to sleep or the screen from locking while the user is active on a webpage. It is particularly useful for preventing interruptions during presentations, watching videos, or reading long articles.
