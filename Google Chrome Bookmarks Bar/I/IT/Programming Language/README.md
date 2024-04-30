@@ -1,4 +1,5 @@
 # C#
+- ![C# Icon](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
 
 - **W3Schools**
   - **URL**: [C# Tutorial](https://www.w3schools.com/cs/index.php)
@@ -7,6 +8,7 @@
 ---
 
 # C++
+- ![C++ Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/768px-ISO_C%2B%2B_Logo.svg.png)
 
 - **W3Schools**
   - **URL**: [C++ Tutorial](https://www.w3schools.com/cpp/default.asp)
@@ -15,6 +17,7 @@
 ---
 
 # C
+- ![C Icon](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
 
 - **W3Schools**
   - **URL**: [C Tutorial](https://www.w3schools.com/c/index.php)
@@ -23,6 +26,7 @@
 ---
 
 # Java
+- ![Java Icon](https://cdn.iconscout.com/icon/free/png-512/java-23-225999.png)
 
 - **W3Schools**
   - **URL**: [Java Tutorial](https://www.w3schools.com/java/default.asp)
@@ -31,6 +35,7 @@
 ---
 
 # Java Script
+- ![JavaScript Icon](https://img.icons8.com/color/452/javascript.png)
 
 - **W3Schools**
   - **URL**: [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
@@ -66,6 +71,7 @@
 ---
 
 # R
+- ![R Icon](https://www.r-project.org/Rlogo.png)
 
 - **W3Schools**
   - **URL**: [R Tutorial](https://www.w3schools.com/r/default.asp)
