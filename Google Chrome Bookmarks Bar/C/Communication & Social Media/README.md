@@ -101,7 +101,9 @@
 <div align="center">
     <img src="https://img.icons8.com/color/452/telegram-app.png" alt="Telegram Web Icon" width="100px"/>
 </div>
+
 - **URL**: [Enter Telegram Web](https://web.telegram.org/k/)
+
 - **Details**: Telegram Web, your messaging sanctuary. Send messages, create group chats, share media, and explore a world of stickers and bots, all within your browser.
 
 ---
