@@ -1,7 +1,7 @@
 ## Adblock Plus
 
 <div align="center">
-    <img src="https://img.icons8.com/color/452/adblock.png" alt="Adblock Plus Icon" width="100px"/>
+    <img src="https://img.icons8.com/color/452/mouse-pointer.png" alt="Custom Cursor for Chrome™ Icon" width="100px"/>
 </div>
 
 - **Extension URL**: [Adblock Plus](https://adblockplus.org/)
