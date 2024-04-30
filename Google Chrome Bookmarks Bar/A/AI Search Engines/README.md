@@ -1,7 +1,7 @@
 ## ChatGPT 3.5
 
 <div align="center">
-    ![ChatGPT 3.5 Icon](https://img.icons8.com/color/452/openai.png)
+    <img src="https://img.icons8.com/color/452/openai.png" alt="ChatGPT 3.5 Icon" width="100px"/>
 </div>
 
 - **URL**: [ChatGPT 3.5](https://chat.openai.com)
@@ -11,7 +11,7 @@
 ## Gemini (Google Bard)
 
 <div align="center">
-    ![Gemini Icon](https://img.icons8.com/color/452/google-logo.png)
+    <img src="https://img.icons8.com/color/452/google-logo.png" alt="Gemini Icon" width="100px"/>
 </div>
 
 - **URL**: [Gemini (Google Bard)](https://gemini.google.com/app)
@@ -21,7 +21,7 @@
 ## Perplexity AI
 
 <div align="center">
-    ![Perplexity AI Icon](https://img.icons8.com/color/452/artificial-intelligence.png)
+    <img src="https://img.icons8.com/color/452/artificial-intelligence.png" alt="Perplexity AI Icon" width="100px"/>
 </div>
 
 - **URL**: [Perplexity AI](https://www.perplexity.ai/)
