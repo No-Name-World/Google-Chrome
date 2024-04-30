@@ -1,7 +1,7 @@
 ## ChatGPT 3.5
 
 <div align="center">
-    <img src="https://img.icons8.com/color/452/openai.png" alt="ChatGPT 3.5 Icon" width="100px"/>
+    <img src="https://img.icons8.com/color/452/openai.png" alt="ChatGPT Icon" width="100px"/>
 </div>
 
 - **URL**: [ChatGPT 3.5](https://chat.openai.com)
