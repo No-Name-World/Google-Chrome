@@ -1,4 +1,5 @@
 ## **Google Translate**
+[![Google Translate Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/20px-Google_Translate_logo.svg.png)](https://translate.google.com/)
   - **URL**: [https://translate.google.com/]
   - **Details**: Google Translate is a free online translation service provided by Google. It offers translation between over 100 languages and supports various input methods including text, speech, and handwriting. Google Translate also provides additional features such as text-to-speech, dictionary definitions, and language detection.
 
@@ -9,8 +10,3 @@
 ## **Microsoft Bing Dictionary**
   - **URL**: [https://www.bing.com/dictionary/]
   - **Details**: Microsoft Bing Dictionary is an online dictionary service provided by Microsoft Bing. It offers definitions, synonyms, antonyms, and translations for words and phrases in multiple languages. Bing Dictionary also provides example sentences, pronunciation guides, and related word suggestions.
-
-
-## **Google Translate** [![Google Translate Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/20px-Google_Translate_logo.svg.png)](https://translate.google.com/)
-  - **URL**: [https://translate.google.com/]
-  - **Details**: Google Translate is a free multilingual machine translation service provided by Google. It allows users to translate text, speech, images, and websites into different languages. Google Translate supports over 100 languages and offers various features such as instant translation, offline translation, and translation through the mobile app.
