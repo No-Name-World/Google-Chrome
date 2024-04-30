@@ -66,10 +66,9 @@
 
 
 - **Meta Business Suite** 
-<div align="center">
-    <img src="https://img.icons8.com/color/452/facebook-business.png" alt="Meta Business Suite Icon" width="100px"/>
-</div>
+
 - **URL**: [Discover Meta Business Suite](https://business.facebook.com/)
+
 - **Details**: Meta Business Suite, your business companion. Manage your presence on Facebook, Instagram, and Messenger effortlessly with tools for scheduling, analyzing, and engaging with your audience.
 
 ---
