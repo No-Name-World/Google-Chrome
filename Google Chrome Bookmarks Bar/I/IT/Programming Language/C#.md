@@ -1,3 +1,0 @@
-- **W3Schools - C# Tutorial**
-  - **URL**: [https://www.w3schools.com/cs/index.php]
-  - **Details**: W3Schools provides a tutorial on C#, a popular programming language developed by Microsoft. The tutorial covers basic to advanced topics including syntax, data types, control structures, classes, inheritance, polymorphism, and more. It includes examples and exercises to reinforce learning.
