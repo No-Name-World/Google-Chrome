@@ -3,6 +3,8 @@
 ## **Google Translate**
 [![Google Translate Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/20px-Google_Translate_logo.svg.png)](https://translate.google.com/)
 
+</div>
+
   - **URL**: [https://translate.google.com/]
   - **Details**: Google Translate is a free online translation service provided by Google. It offers translation between over 100 languages and supports various input methods including text, speech, and handwriting. Google Translate also provides additional features such as text-to-speech, dictionary definitions, and language detection.
 
