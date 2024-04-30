@@ -49,7 +49,7 @@
 # Python
 
 - **Python Downloads**
-  - ![Python Icon](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png) [Python Downloads](https://www.python.org/downloads/)
+  - **URL**: [Python Downloads](https://www.python.org/downloads/)
   - **Description**: Python.org provides downloads for the Python programming language, including the latest stable releases and pre-release versions. Users can download Python for various operating systems and architectures, as well as access release notes and documentation.
 
 
@@ -69,4 +69,3 @@
 - **W3Schools**
   - **URL**: [R Tutorial](https://www.w3schools.com/r/default.asp)
   - **Details**: W3Schools provides a tutorial on R, a programming language and software environment commonly used for statistical computing and graphics. The tutorial covers basic to advanced topics such as data types, vectors, matrices, data frames, statistical functions, plotting, and more. It includes examples and exercises to help users learn R.
-
