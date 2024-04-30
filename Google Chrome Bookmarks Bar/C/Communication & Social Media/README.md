@@ -9,50 +9,61 @@
 
 ---
 
-- **Google Meet** 
+## **Google Meet** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/google-meet.png" alt="Google Meet Icon" width="100px"/>
 </div>
+
 - **URL**: [Start a Meet](https://meet.google.com/)
+
 - **Details**: Google Meet brings people together, virtually. Host or join online meetings, conduct virtual classes, and collaborate seamlessly through video calls, all powered by Google's robust infrastructure.
 
 ---
 
-- **Microsoft Teams** 
+## **Microsoft Teams** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/microsoft-teams.png" alt="Microsoft Teams Icon" width="100px"/>
 </div>
+
 - **URL**: [Discover Teams](https://teams.live.com/_#/communities/)
+
 - **Details**: Microsoft Teams revolutionizes collaboration. Seamlessly integrate chat, video conferencing, file sharing, and application integration, empowering teams worldwide to achieve more, together.
 
 ---
 
-- **Zoom** 
+##  **Zoom** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/zoom.png" alt="Zoom Icon" width="100px"/>
 </div>
+
 - **URL**: [Join a Zoom Meeting](https://zoom.us/join)
+
 - **Details**: Zoom, where every moment matters. From virtual meetings to online education and social gatherings, Zoom's intuitive interface and extensive features make every interaction memorable.
 
 ---
 
-- **Facebook** 
+##  **Facebook** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/facebook-new.png" alt="Facebook Icon" width="100px"/>
 </div>
+
 - **URL**: [Explore Facebook](https://www.facebook.com/)
+
 - **Details**: Facebook, your social playground. Connect with friends, share life updates, photos, and videos, and discover a world of content from creators and communities you love.
 
-- **Facebook Messenger** 
+##  **Facebook Messenger** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/facebook-messenger.png" alt="Messenger Icon" width="100px"/>
 </div>
 - **URL**: [Open Messenger](https://www.facebook.com/messages/t/)
 - **Details**: Messenger, your personal chat haven. Send messages, make voice and video calls, share memories, and interact with businesses and chatbots, all in one convenient platform.
 
-- **Messenger** 
+## **Messenger** 
+
 - **URL**: [Connect on Messenger](https://www.messenger.com/)
+
 - **Details**: Messenger, bridging connections. Send messages, make calls, share moments, and stay connected with friends and businesses, all within a vibrant and dynamic messaging experience.
+
 
 - **Meta Business Suite** 
 <div align="center">
@@ -63,11 +74,13 @@
 
 ---
 
-- **Instagram** 
+## **Instagram** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/instagram-new.png" alt="Instagram Icon" width="100px"/>
 </div>
+
 - **URL**: [Explore Instagram](https://www.instagram.com/)
+
 - **Details**: Instagram, where visual stories unfold. Share photos, videos, and moments, explore trending content, and connect with creators and communities that inspire you.
 
 ---
