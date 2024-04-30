@@ -1,3 +1,5 @@
+<div align="center">
+
 ## **Google Translate**
 [![Google Translate Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/20px-Google_Translate_logo.svg.png)](https://translate.google.com/)
   - **URL**: [https://translate.google.com/]
@@ -10,3 +12,5 @@
 ## **Microsoft Bing Dictionary**
   - **URL**: [https://www.bing.com/dictionary/]
   - **Details**: Microsoft Bing Dictionary is an online dictionary service provided by Microsoft Bing. It offers definitions, synonyms, antonyms, and translations for words and phrases in multiple languages. Bing Dictionary also provides example sentences, pronunciation guides, and related word suggestions.
+
+</div>
