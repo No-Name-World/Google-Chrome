@@ -1,3 +1,0 @@
-- **W3Schools - JavaScript Tutorial**
-  - **URL**: [https://www.w3schools.com/js/default.asp]
-  - **Details**: W3Schools offers a comprehensive tutorial on JavaScript, covering topics such as syntax, variables, operators, control structures, functions, arrays, objects, events, and DOM manipulation. The tutorial includes examples and exercises to help learners understand and practice JavaScript programming.
