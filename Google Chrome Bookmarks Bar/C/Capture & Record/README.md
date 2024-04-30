@@ -34,7 +34,7 @@
 ## ScreenPal
 
 <div align="center">
-    <img src="https://img.icons8.com/dusk/452/camera-on.png" alt="ScreenPal Icon" width="100px"/>
+    <img src="https://img.icons8.com/color/452/computer.png" alt="ScreenPal Icon" width="100px"/>
 </div>
 
 - **URL**: [ScreenPal](https://screenpal.com)
