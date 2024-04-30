@@ -1,5 +1,5 @@
 # C#
-- ![C# Icon](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
+- ![C# Icon](https://cdn.icon-icons.com/icons2/1508/PNG/512/dotnet-microsoft-c-logo-icon-87489.png)
 
 - **W3Schools**
   - **URL**: [C# Tutorial](https://www.w3schools.com/cs/index.php)
@@ -44,6 +44,7 @@
 ---
 
 # PHP (Hypertext Preprocessor)
+- ![PHP Icon](https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png)
 
 - **W3Schools**
   - **URL**: [PHP Tutorial](https://www.w3schools.com/php/default.asp)
