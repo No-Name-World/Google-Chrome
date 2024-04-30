@@ -46,7 +46,8 @@
 
 ---
 
-# Python ![Python Icon](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png)
+# Python 
+- ![Python Icon](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png)
 
 - **Python Downloads**
   - **URL**: [Python Downloads](https://www.python.org/downloads/)
