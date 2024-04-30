@@ -95,7 +95,7 @@
 
 ---
 
-- **Telegram Web** 
+# **Telegram Web** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/telegram-app.png" alt="Telegram Web Icon" width="100px"/>
 </div>
@@ -105,9 +105,6 @@
 ---
 
 # **WeChat Weixin Web** 
-<div align="center">
-    <img src="https://img.icons8.com/color/452/wechat-app.png" alt="WeChat Web Icon" width="100px"/>
-</div>
 
 - **URL**: [Discover WeChat Web](https://web.wechat.com/)
 
