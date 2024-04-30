@@ -1,6 +1,4 @@
 ## **Canva**
-[![Canva Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canva_Logo.png/240px-Canva_Logo.png)](https://www.canva.com/)
-
   - **URL**: [https://www.canva.com/]
   - **Details**: Canva is a web-based graphic design platform that allows users to create a wide range of visual content, including presentations, social media graphics, posters, and more. It offers a drag-and-drop interface, a vast library of templates, images, and graphics, and various customization options to create professional-looking designs.
 
@@ -11,3 +9,6 @@
 ## **diagrams.net (draw.io)**
   - **URL**: [https://www.diagrams.net/]
   - **Details**: diagrams.net, formerly known as draw.io, is a free and open-source diagramming tool that allows users to create flowcharts, network diagrams, UML diagrams, and more. It offers a user-friendly interface with a wide range of shapes, connectors, and customization options. diagrams.net can be used online or installed locally as a desktop application.
+
+
+[![Picsart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PicsArt_logo.svg/20px-PicsArt_logo.svg.png)](https://picsart.com/)
