@@ -11,4 +11,4 @@
   - **Details**: diagrams.net, formerly known as draw.io, is a free and open-source diagramming tool that allows users to create flowcharts, network diagrams, UML diagrams, and more. It offers a user-friendly interface with a wide range of shapes, connectors, and customization options. diagrams.net can be used online or installed locally as a desktop application.
 
 
-[![Picsart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PicsArt_logo.svg/20px-PicsArt_logo.svg.png)](https://picsart.com/)
+## **JavaScript** [![JavaScript Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/20px-Unofficial_JavaScript_logo_2.svg.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
