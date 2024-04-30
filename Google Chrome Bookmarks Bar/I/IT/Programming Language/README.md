@@ -49,7 +49,7 @@
 # Python
 
 - **Python Downloads**
-  - **URL**: [Python Downloads](https://www.python.org/downloads/)
+  - ![Python Icon](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png) [Python Downloads](https://www.python.org/downloads/)
   - **Description**: Python.org provides downloads for the Python programming language, including the latest stable releases and pre-release versions. Users can download Python for various operating systems and architectures, as well as access release notes and documentation.
 
 
