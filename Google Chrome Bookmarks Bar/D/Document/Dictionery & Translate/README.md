@@ -1,8 +1,6 @@
-<div align="center">
-
 ## **Google Translate**
+<div align="center">
 [![Google Translate Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/20px-Google_Translate_logo.svg.png)](https://translate.google.com/)
-
 </div>
 
   - **URL**: [https://translate.google.com/]
