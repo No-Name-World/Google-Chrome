@@ -1,7 +1,6 @@
-## **Google Translate**
+## **Google Translate** ![Google Translate Icon](https://www.gstatic.com/images/branding/product/1x/translate_48dp.png)
   - **URL**: [https://translate.google.com/]
   - **Details**: Google Translate is a free online translation service provided by Google. It offers translation between over 100 languages and supports various input methods including text, speech, and handwriting. Google Translate also provides additional features such as text-to-speech, dictionary definitions, and language detection.
-
 
 ## **有道翻译 (Youdao Translate)**
   - **URL**: [http://fanyi.youdao.com/]
