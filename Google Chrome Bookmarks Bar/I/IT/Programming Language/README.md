@@ -1,7 +1,3 @@
-# Programming Language Tutorials
-
----
-
 ## C#
 
 <div align="center">
