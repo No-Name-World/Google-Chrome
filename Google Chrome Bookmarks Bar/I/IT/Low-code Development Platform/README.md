@@ -1,3 +1,0 @@
-- **Oracle APEX**
-  - **URL**: [https://apex.oracle.com/en/](https://apex.oracle.com/en/)
-  - **Details**: Oracle APEX (Application Express) is a low-code development platform that enables users to build scalable, secure enterprise apps with ease. It provides a browser-based environment for creating web applications directly from the browser without needing to install any software. Oracle APEX offers features such as drag-and-drop interface design, SQL workshop for database interactions, and responsive design for mobile compatibility.
