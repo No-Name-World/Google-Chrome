@@ -1,14 +1,12 @@
-### Flight Tracking:
+## Flight Tracking
 
----
-
-## **RadarBox**
+### **RadarBox**
   - **URL**: [RadarBox](https://www.radarbox.com/)
   - **Description**: RadarBox is a flight tracking website that provides real-time flight tracking information, including live flight maps, flight status updates, and historical flight data.
 
 ---
 
-## Maps and Navigation:
+## Maps and Navigation
 
 ### **Google Maps**
   - **URL**: [Google Maps](https://www.google.com/maps/)
