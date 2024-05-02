@@ -1,7 +1,5 @@
 ## **Golden Screen Cinemas (GSC) Malaysia**
 
-![GSC Icon](https://www.gsc.com.my/wp-content/themes/gsc/assets/img/gsc-logo.png)
-
   - **URL**: [https://www.gsc.com.my/]
   - **Details**: Golden Screen Cinemas (GSC) is a leading cinema chain in Malaysia, offering a wide range of movies, showtimes, and cinema experiences. Users can browse movie listings, book tickets, and find information about GSC locations and promotions.
 
