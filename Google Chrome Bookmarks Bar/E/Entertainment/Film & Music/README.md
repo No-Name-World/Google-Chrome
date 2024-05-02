@@ -16,10 +16,20 @@
 ---
 
 ## **YouTube**
+
+<div align="center">
+    <img src="https://www.youtube.com/favicon.ico" alt="YouTube Logo" width="100px"/>
+</div>
+
   - **URL**: [https://www.youtube.com/]
   - **Details**: YouTube is the largest video-sharing platform on the internet, allowing users to upload, view, and share videos. It offers a diverse range of content, including music videos, vlogs, tutorials, documentaries, and more.
 
 ## **YouTube Music**
+
+<div align="center">
+    <img src="https://music.youtube.com/favicon.ico" alt="YouTube Music Logo" width="100px"/>
+</div>
+
   - **URL**: [https://music.youtube.com/]
   - **Details**: YouTube Music is a music streaming service provided by YouTube. It offers a vast library of songs, albums, playlists, and music videos for online streaming. Users can access personalized recommendations, and curated playlists, and discover new music based on their preferences.
 
@@ -37,17 +47,3 @@
   - **URL**: [https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?pli=1]
   - **Details**: This Chrome extension provides a free VPN service for secure and private browsing. It encrypts internet traffic, hides IP addresses, and allows users to access geo-blocked content.
 
-
-![Douyin Logo](https://www.douyin.com/favicon.ico)
-
-![泥视频 Logo](https://www.nivod4.tv/favicon.ico)
-
-![YouTube Logo](https://www.youtube.com/favicon.ico)
-
-![YouTube Music Logo](https://music.youtube.com/favicon.ico)
-
-![Picture-in-Picture Extension for Chrome](https://lh3.googleusercontent.com/Wo)
-
-![Volume Master Extension for Chrome](https://lh3.googleusercontent.com/eX)
-
-![Free VPN for Chrome (VPN Proxy)](https://lh3.googleusercontent.com/uu)
