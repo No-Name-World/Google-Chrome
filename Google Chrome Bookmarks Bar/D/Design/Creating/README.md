@@ -2,9 +2,13 @@
   - **URL**: [https://www.canva.com/]
   - **Details**: Canva is a web-based graphic design platform that allows users to create a wide range of visual content, including presentations, social media graphics, posters, and more. It offers a drag-and-drop interface, a vast library of templates, images, and graphics, and various customization options to create professional-looking designs.
 
+---
+
 ## **Picsart**
   - **URL**: [https://picsart.com/]
   - **Details**: Picsart is a mobile and web-based photo editing and design platform. It offers a wide range of tools and features for editing photos, creating collages, adding stickers and text, and applying various effects and filters. PicsArt also provides a social platform where users can share their creations and discover artwork from other users.
+
+---
 
 ## **diagrams.net (draw.io)**
   - **URL**: [https://www.diagrams.net/]
