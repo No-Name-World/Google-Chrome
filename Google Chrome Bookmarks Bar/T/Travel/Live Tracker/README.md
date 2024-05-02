@@ -8,11 +8,9 @@
 
 ---
 
-### Maps and Navigation:
+## Maps and Navigation:
 
----
-
-## **Google Maps**
+### **Google Maps**
   - **URL**: [Google Maps](https://www.google.com/maps/)
   - **Description**: Google Maps is a widely used mapping service that offers satellite imagery, street maps, route planning, and real-time traffic conditions. Users can also explore businesses, landmarks, and points of interest.
 
