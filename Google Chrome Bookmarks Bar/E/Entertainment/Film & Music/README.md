@@ -25,3 +25,18 @@
 - **Free VPN for Chrome (VPN Proxy)**
   - **URL**: [https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?pli=1]
   - **Details**: This Chrome extension provides a free VPN service for secure and private browsing. It encrypts internet traffic, hides IP addresses, and allows users to access geo-blocked content.
+
+
+![Douyin Logo](https://www.douyin.com/favicon.ico)
+
+![泥视频 Logo](https://www.nivod4.tv/favicon.ico)
+
+![YouTube Logo](https://www.youtube.com/favicon.ico)
+
+![YouTube Music Logo](https://music.youtube.com/favicon.ico)
+
+![Picture-in-Picture Extension for Chrome](https://lh3.googleusercontent.com/Wo)
+
+![Volume Master Extension for Chrome](https://lh3.googleusercontent.com/eX)
+
+![Free VPN for Chrome (VPN Proxy)](https://lh3.googleusercontent.com/uu)
