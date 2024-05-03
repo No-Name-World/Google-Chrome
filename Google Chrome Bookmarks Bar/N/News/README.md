@@ -27,7 +27,13 @@
 
 ---
 
-## Malaysia Chinese
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1280px-Flag_of_Malaysia.svg.png" alt="Malaysia Flag" width="200">
+  <br>
+  <strong>*Malaysia*</strong>
+</div>
+
+## Chinese
 
 ### China Press
 - **URL:** https://www.chinapress.com.my/
@@ -63,7 +69,7 @@
 
 ---
 
-## Malaysia English
+## English
 
 ### Borneo Post
 - **URL:** https://www.theborneopost.com/
@@ -99,7 +105,7 @@
 
 ---
 
-## Malaysia Malay
+## Malay
 
 ### Agenda Daily
 - **URL:** https://www.agendadaily.com/
@@ -127,7 +133,11 @@
 
 ---
 
-## Singapore
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1280px-Flag_of_Singapore.svg.png" alt="Singapore Flag" width="200">
+  <br>
+  <strong>*Singapore*</strong>
+</div>
 
 ### AsiaOne
 - **URL:** https://www.asiaone.com/
@@ -159,7 +169,11 @@
 
 ---
 
-### Thailand
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png" alt="Thailand Flag" width="200">
+  <br>
+  <strong>*Thailand*</strong>
+</div>
 
 ## Asia News Network
 - **URL:** https://www.asianews.network/
@@ -175,7 +189,11 @@
 
 ---
 
-### United Kingdom
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" alt="United Kingdom Flag" width="200">
+  <br>
+  <strong>*United Kingdom*</strong>
+</div>
 
 ## BBC News
 - **URL:** https://www.bbc.co.uk/news
@@ -207,7 +225,11 @@
 
 ---
 
-### United States
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" alt="United States Flag" width="200">
+  <br>
+  <strong>*United States*</strong>
+</div>
 
 ## Chicago Tribune
 - **URL:** https://www.chicagotribune.com/
