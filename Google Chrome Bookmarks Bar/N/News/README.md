@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1280px-Flag_of_Australia.svg.png" alt="Australia Flag" width="200">
+  <br>
   <strong>*Australia*</strong>
 </div>
+
 
 ### The Age
 - **URL:** https://www.theage.com.au/
