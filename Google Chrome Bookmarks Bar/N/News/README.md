@@ -1,7 +1,8 @@
-Australia
-The Age:
-URL: https://www.theage.com.au/
-Description: The Age is a major newspaper based in Melbourne, Australia, with a focus on breaking news, analysis, and opinion pieces covering local, national, and international issues.
+## Australia
+
+### The Age
+- **URL:** https://www.theage.com.au/
+- **Description:** The Age is a major newspaper based in Melbourne, Australia, with a focus on breaking news, analysis, and opinion pieces covering local, national, and international issues.
 The Australian:
 URL: https://www.theaustralian.com.au/
 Description: The Australian is a leading national newspaper in Australia, known for its in-depth coverage of politics, business, and cultural events both in Australia and abroad.
