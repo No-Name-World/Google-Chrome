@@ -4,41 +4,46 @@
 - **URL:** https://www.theage.com.au/
 - **Description:** The Age is a major newspaper based in Melbourne, Australia, with a focus on breaking news, analysis, and opinion pieces covering local, national, and international issues.
 
-## The Australian:
+### The Australian:
 - URL: https://www.theaustralian.com.au/
 - Description: The Australian is a leading national newspaper in Australia, known for its in-depth coverage of politics, business, and cultural events both in Australia and abroad.
 
-## Australian Financial Review:
+### Australian Financial Review:
 - URL: https://www.afr.com/
 - Description: The Australian Financial Review (AFR) is a prominent business-focused newspaper in Australia, providing news, analysis, and insights into the financial markets, economy, and corporate world.
 
-## The Canberra Times:
+### The Canberra Times:
 - URL: https://www.canberratimes.com.au/
 - Description: The Canberra Times is a daily newspaper based in Canberra, Australia's capital city. It covers local, national, and international news, with a focus on politics, policy, and cultural events.
 
-## The Sydney Morning Herald:
+### The Sydney Morning Herald:
 - URL: https://www.smh.com.au/
 - Description: The Sydney Morning Herald is one of Australia's oldest and most respected newspapers, delivering comprehensive news coverage, analysis, and opinion pieces on a wide range of topics, including politics, business, and culture.
 
 ---
 ## Malaysia Chinese
 
-China Press:
+### China Press:
 URL: https://www.chinapress.com.my/
 Description: China Press is a leading Chinese-language newspaper in Malaysia, providing news, features, and opinions on local, national, and international affairs, with a focus on issues relevant to the Chinese community.
-Guang Ming Daily:
+
+### Guang Ming Daily:
 URL: https://www.guangming.com.my/
 Description: Guang Ming Daily is a daily Chinese-language newspaper in Malaysia, offering comprehensive coverage of current events, politics, business, and culture from Malaysia and around the world.
-International Times:
+
+### International Times:
 URL: https://www.internationaltimes.com.my/
 Description: International Times is a Chinese-language newspaper in Malaysia that provides news and analysis on global events, with a focus on politics, economics, and social issues impacting the Chinese diaspora.
-Kwong Wah Yit Poh:
+
+### Kwong Wah Yit Poh:
 URL: https://www.kwongwah.com.my/
 Description: Kwong Wah Yit Poh is one of Malaysia's oldest Chinese-language newspapers, delivering news, editorials, and features covering a wide range of topics, including politics, economics, and culture.
-Nanyang Siang Pau:
+
+### Nanyang Siang Pau:
 URL: https://www.enanyang.my/
 Description: Nanyang Siang Pau is a Chinese-language newspaper in Malaysia that offers comprehensive coverage of local, national, and international news, with a focus on business, politics, and social issues.
-Oriental Daily:
+
+### Oriental Daily:
 URL: https://www.orientaldaily.com.my/
 Description: Oriental Daily is a Chinese-language newspaper in Malaysia that provides up-to-date news coverage, analysis, and commentary on local, national, and international affairs, with a focus on issues relevant to the Chinese-speaking community.
 Overseas Chinese Daily News:
