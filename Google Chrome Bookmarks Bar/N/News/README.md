@@ -1,5 +1,5 @@
 <div align="center">
-  ## Australia
+  <strong>*Australia*</strong>
 </div>
 
 ### The Age
