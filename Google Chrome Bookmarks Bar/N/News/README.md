@@ -3,18 +3,22 @@
 ### The Age
 - **URL:** https://www.theage.com.au/
 - **Description:** The Age is a major newspaper based in Melbourne, Australia, with a focus on breaking news, analysis, and opinion pieces covering local, national, and international issues.
-The Australian:
-URL: https://www.theaustralian.com.au/
-Description: The Australian is a leading national newspaper in Australia, known for its in-depth coverage of politics, business, and cultural events both in Australia and abroad.
-Australian Financial Review:
-URL: https://www.afr.com/
-Description: The Australian Financial Review (AFR) is a prominent business-focused newspaper in Australia, providing news, analysis, and insights into the financial markets, economy, and corporate world.
-The Canberra Times:
-URL: https://www.canberratimes.com.au/
-Description: The Canberra Times is a daily newspaper based in Canberra, Australia's capital city. It covers local, national, and international news, with a focus on politics, policy, and cultural events.
-The Sydney Morning Herald:
-URL: https://www.smh.com.au/
-Description: The Sydney Morning Herald is one of Australia's oldest and most respected newspapers, delivering comprehensive news coverage, analysis, and opinion pieces on a wide range of topics, including politics, business, and culture.
+
+## The Australian:
+- URL: https://www.theaustralian.com.au/
+- Description: The Australian is a leading national newspaper in Australia, known for its in-depth coverage of politics, business, and cultural events both in Australia and abroad.
+
+## Australian Financial Review:
+- URL: https://www.afr.com/
+- Description: The Australian Financial Review (AFR) is a prominent business-focused newspaper in Australia, providing news, analysis, and insights into the financial markets, economy, and corporate world.
+
+## The Canberra Times:
+- URL: https://www.canberratimes.com.au/
+- Description: The Canberra Times is a daily newspaper based in Canberra, Australia's capital city. It covers local, national, and international news, with a focus on politics, policy, and cultural events.
+
+## The Sydney Morning Herald:
+- URL: https://www.smh.com.au/
+- Description: The Sydney Morning Herald is one of Australia's oldest and most respected newspapers, delivering comprehensive news coverage, analysis, and opinion pieces on a wide range of topics, including politics, business, and culture.
 
 ---
 Malaysia Chinese
