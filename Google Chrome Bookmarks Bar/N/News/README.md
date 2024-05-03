@@ -125,104 +125,105 @@
 ## Singapore
 
 ### AsiaOne
-- URL: https://www.asiaone.com/
-- Description: AsiaOne is a leading digital news portal in Singapore, offering the latest news, features, and lifestyle content covering local, regional, and international topics of interest to a diverse audience.
+- **URL:** https://www.asiaone.com/
+- **Description:** AsiaOne is a leading digital news portal in Singapore, offering the latest news, features, and lifestyle content covering local, regional, and international topics of interest to a diverse audience.
 
 ### BeritaHarian.sg
-- URL: https://www.beritaharian.sg/
-- Description: BeritaHarian.sg is the digital platform of Berita Harian, Singapore's Malay-language newspaper, providing breaking news, analysis, and features on local, regional, and international affairs in Malay.
+- **URL:** https://www.beritaharian.sg/
+- **Description:** BeritaHarian.sg is the digital platform of Berita Harian, Singapore's Malay-language newspaper, providing breaking news, analysis, and features on local, regional, and international affairs in Malay.
 
 ### Lianhe Zaobao
-- URL: https://www.zaobao.com.sg/
-- Description: Lianhe Zaobao is one of Singapore's largest Chinese-language newspapers, offering comprehensive coverage of news, current affairs, business, lifestyle, and culture, catering to the Chinese-speaking community.
+- **URL:** https://www.zaobao.com.sg/
+- **Description:** Lianhe Zaobao is one of Singapore's largest Chinese-language newspapers, offering comprehensive coverage of news, current affairs, business, lifestyle, and culture, catering to the Chinese-speaking community.
 
 ### New Paper, The
-- URL: https://www.tnp.sg/
-- Description: The New Paper is a popular English-language newspaper in Singapore, known for its concise reporting and coverage of local, regional, and international news, sports, entertainment, and lifestyle.
+- **URL:** https://www.tnp.sg/
+- **Description:** The New Paper is a popular English-language newspaper in Singapore, known for its concise reporting and coverage of local, regional, and international news, sports, entertainment, and lifestyle.
 
 ### STOMP
-- URL: https://www.stomp.com.sg/
-- Description: STOMP is a citizen journalism website in Singapore that allows users to contribute news, photos, and videos about local events, issues, and happenings, providing a platform for community engagement and storytelling.
+- **URL:** https://www.stomp.com.sg/
+- **Description:** STOMP is a citizen journalism website in Singapore that allows users to contribute news, photos, and videos about local events, issues, and happenings, providing a platform for community engagement and storytelling.
 
 ### Straits Times, The
-- URL: https://www.straitstimes.com/
-- Description: The Straits Times is Singapore's largest English-language newspaper, offering comprehensive coverage of news, business, sports, lifestyle, and entertainment, with a focus on local, regional, and international affairs.
+- **URL:** https://www.straitstimes.com/
+- **Description:** The Straits Times is Singapore's largest English-language newspaper, offering comprehensive coverage of news, business, sports, lifestyle, and entertainment, with a focus on local, regional, and international affairs.
 
 ### Today Online
-- URL: https://www.todayonline.com/
-- Description: Today Online is a digital news platform in Singapore, offering the latest news, analysis, and features covering local, regional, and international topics, with a focus on politics, business, and current affairs.
+- **URL:** https://www.todayonline.com/
+- **Description:** Today Online is a digital news platform in Singapore, offering the latest news, analysis, and features covering local, regional, and international topics, with a focus on politics, business, and current affairs.
 
 ---
 
-Thailand
-- Asia News Network
-- URL: https://www.asianews.network/
-Description: Asia News Network (ANN) is a network of leading newspapers in Asia, including Thailand's The Nation, collaborating to provide comprehensive coverage of news, features, and analysis from across the region.
+### Thailand
 
-Bangkok Post
-- URL: https://www.bangkokpost.com/
-- Description: Bangkok Post is one of Thailand's oldest and most widely read English-language newspapers, offering news, analysis, and commentary on politics, business, society, and culture in Thailand and the region.
+## Asia News Network
+- **URL:** https://www.asianews.network/
+- **Description:** Asia News Network (ANN) is a network of leading newspapers in Asia, including Thailand's The Nation, collaborating to provide comprehensive coverage of news, features, and analysis from across the region.
 
-Nation, The
-- URL: https://www.nationthailand.com/
-- Description: The Nation is an English-language newspaper in Thailand that provides news, analysis, and opinion pieces on politics, business, society, and culture in Thailand and the region, with a focus on English-speaking readers.
+## Bangkok Post
+- **URL:** https://www.bangkokpost.com/
+- **Description:** Bangkok Post is one of Thailand's oldest and most widely read English-language newspapers, offering news, analysis, and commentary on politics, business, society, and culture in Thailand and the region.
 
----
-
-United Kingdom
-
-BBC News
-- URL: https://www.bbc.co.uk/news
-- Description: BBC News is the world's largest and most trusted broadcaster, offering comprehensive, impartial news coverage, analysis, and features from the United Kingdom and around the globe across multiple platforms.
-
-Daily Express
-- URL: https://www.express.co.uk/
-- Description: The Daily Express is a popular British tabloid newspaper known for its conservative stance and coverage of news, politics, entertainment, and sports, with a focus on sensationalist headlines and stories.
-
-The Daily Mirror
-- URL: https://www.mirror.co.uk/
-- Description: The Daily Mirror is a British tabloid newspaper offering news, features, and opinion pieces on politics, entertainment, sports, and current affairs, with a focus on stories of interest to a broad readership.
-
-The Guardian
-- URL: https://www.theguardian.com/uk
-- Description: The Guardian is a renowned British newspaper known for its progressive stance and quality journalism, providing in-depth coverage of news, politics, culture, and opinion from the UK and around the world.
-
-Reuters UK edition
-- URL: https://uk.reuters.com/
-- Description: Reuters UK edition provides comprehensive news coverage, analysis, and features on global events, business, finance, politics, and technology, with a focus on delivering accurate and unbiased reporting to readers in the UK and beyond.
-
-The Telegraph
-- URL: https://www.telegraph.co.uk/
-- Description: The Telegraph is a leading British broadsheet newspaper offering news, analysis, and opinion pieces on politics, business, culture, and sports, known for its conservative editorial stance and quality journalism.
-
-The Times
-- URL: https://www.thetimes.co.uk/
-- Description: The Times is one of the oldest and most respected newspapers in the UK, providing comprehensive coverage of news, politics, business, culture, and sports, with a focus on in-depth analysis and quality journalism.
+## Nation, The
+- **URL:** https://www.nationthailand.com/
+- **Description:** The Nation is an English-language newspaper in Thailand that provides news, analysis, and opinion pieces on politics, business, society, and culture in Thailand and the region, with a focus on English-speaking readers.
 
 ---
 
-United States
+### United Kingdom
 
-Chicago Tribune
-- URL: https://www.chicagotribune.com/
-- Description: The Chicago Tribune is a major American newspaper covering news, politics, business, sports, entertainment, and culture in Chicago, the Midwest, and beyond, known for its Pulitzer Prize-winning journalism.
+## BBC News
+- **URL:** https://www.bbc.co.uk/news
+- **Description:** BBC News is the world's largest and most trusted broadcaster, offering comprehensive, impartial news coverage, analysis, and features from the United Kingdom and around the globe across multiple platforms.
 
-New York Post
-- URL: https://nypost.com/
-- Description: The New York Post is a tabloid newspaper in New York City known for its bold headlines and coverage of news, gossip, entertainment, sports, and politics, catering to a diverse readership in the New York metropolitan area.
+## Daily Express
+- **URL:** https://www.express.co.uk/
+- **Description:** The Daily Express is a popular British tabloid newspaper known for its conservative stance and coverage of news, politics, entertainment, and sports, with a focus on sensationalist headlines and stories.
 
-The New York Times
-- URL: https://www.nytimes.com/
-- Description: The New York Times is one of the most influential newspapers globally, providing comprehensive coverage of news, politics, business, culture, science, and technology, with a focus on quality journalism and investigative reporting.
+## The Daily Mirror
+- **URL:** https://www.mirror.co.uk/
+- **Description:** The Daily Mirror is a British tabloid newspaper offering news, features, and opinion pieces on politics, entertainment, sports, and current affairs, with a focus on stories of interest to a broad readership.
 
-San Francisco Chronicle
-- URL: https://www.sfchronicle.com/
-- Description: The San Francisco Chronicle is a major American newspaper covering news, politics, business, sports, entertainment, and culture in the San Francisco Bay Area and Northern California, known for its in-depth reporting and analysis.
+## The Guardian
+- **URL:** https://www.theguardian.com/uk
+- **Description:** The Guardian is a renowned British newspaper known for its progressive stance and quality journalism, providing in-depth coverage of news, politics, culture, and opinion from the UK and around the world.
 
-The Washington Post
-- URL: https://www.washingtonpost.com/
-- Description: The Washington Post is a renowned American newspaper offering comprehensive coverage of news, politics, business, technology, sports, and culture, known for its investigative journalism and critical analysis.
+## Reuters UK edition
+- **URL:** https://uk.reuters.com/
+- **Description:** Reuters UK edition provides comprehensive news coverage, analysis, and features on global events, business, finance, politics, and technology, with a focus on delivering accurate and unbiased reporting to readers in the UK and beyond.
 
-USA Today
-- URL: https://www.usatoday.com/
-- Description: USA Today is a widely circulated American newspaper known for its concise reporting and colorful presentation of news, sports, entertainment, and opinion pieces, catering to a broad national readership.
+## The Telegraph
+- **URL:** https://www.telegraph.co.uk/
+- **Description:** The Telegraph is a leading British broadsheet newspaper offering news, analysis, and opinion pieces on politics, business, culture, and sports, known for its conservative editorial stance and quality journalism.
+
+## The Times
+- **URL:** https://www.thetimes.co.uk/
+- **Description:** The Times is one of the oldest and most respected newspapers in the UK, providing comprehensive coverage of news, politics, business, culture, and sports, with a focus on in-depth analysis and quality journalism.
+
+---
+
+### United States
+
+## Chicago Tribune
+- **URL:** https://www.chicagotribune.com/
+- **Description:** The Chicago Tribune is a major American newspaper covering news, politics, business, sports, entertainment, and culture in Chicago, the Midwest, and beyond, known for its Pulitzer Prize-winning journalism.
+
+## New York Post
+- **URL:** https://nypost.com/
+- **Description:** The New York Post is a tabloid newspaper in New York City known for its bold headlines and coverage of news, gossip, entertainment, sports, and politics, catering to a diverse readership in the New York metropolitan area.
+
+## The New York Times
+- **URL:** https://www.nytimes.com/
+- **Description:** The New York Times is one of the most influential newspapers globally, providing comprehensive coverage of news, politics, business, culture, science, and technology, with a focus on quality journalism and investigative reporting.
+
+## San Francisco Chronicle
+- **URL:** https://www.sfchronicle.com/
+- **Description:** The San Francisco Chronicle is a major American newspaper covering news, politics, business, sports, entertainment, and culture in the San Francisco Bay Area and Northern California, known for its in-depth reporting and analysis.
+
+## The Washington Post
+- **URL:** https://www.washingtonpost.com/
+- **Description:** The Washington Post is a renowned American newspaper offering comprehensive coverage of news, politics, business, technology, sports, and culture, known for its investigative journalism and critical analysis.
+
+##USA Today
+- **URL:** https://www.usatoday.com/
+- **Description:** USA Today is a widely circulated American newspaper known for its concise reporting and colorful presentation of news, sports, entertainment, and opinion pieces, catering to a broad national readership.
