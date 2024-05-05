@@ -1,7 +1,5 @@
 ## Huaqimen - Shengri Shu  彭祖老黄历查询 • 出生日期算命
 
-![Huaqimen Logo](https://www.huaqimen.com/picture/logo.png)
-
 - **URL**: [Shengri Shu](https://www.huaqimen.com/shengrishu.php)
 - **Details**: Huaqimen's Shengri Shu (生日书) is a unique service offering personalized birthday books based on the recipient's birth date. These books are meticulously crafted to include astrological insights, personality traits, and auspicious elements associated with the individual's birth date. Each book is tailored to provide a meaningful and memorable gift for birthdays and special occasions.
 
