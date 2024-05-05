@@ -1,4 +1,4 @@
-## **Discord** 
+# **Discord** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/discord-logo.png" alt="Discord Icon" width="100px"/>
 </div>
@@ -9,7 +9,7 @@
 
 ---
 
-## **Google Meet** 
+# **Google Meet** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/google-meet.png" alt="Google Meet Icon" width="100px"/>
 </div>
@@ -20,7 +20,7 @@
 
 ---
 
-## **Microsoft Teams** 
+# **Microsoft Teams** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/microsoft-teams.png" alt="Microsoft Teams Icon" width="100px"/>
 </div>
@@ -31,7 +31,7 @@
 
 ---
 
-##  **Zoom** 
+#  **Zoom** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/zoom.png" alt="Zoom Icon" width="100px"/>
 </div>
@@ -42,7 +42,7 @@
 
 ---
 
-##  **Facebook** 
+#  **Facebook** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/facebook-new.png" alt="Facebook Icon" width="100px"/>
 </div>
@@ -51,7 +51,7 @@
 
 - **Details**: Facebook, your social playground. Connect with friends, share life updates, photos, and videos, and discover a world of content from creators and communities you love.
 
-##  **Facebook Messenger** 
+#  **Facebook Messenger** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/facebook-messenger.png" alt="Messenger Icon" width="100px"/>
 </div>
@@ -60,14 +60,14 @@
 
 - **Details**: Messenger, your personal chat haven. Send messages, make voice and video calls, share memories, and interact with businesses and chatbots, all in one convenient platform.
 
-## **Messenger** 
+# **Messenger** 
 
 - **URL**: [Connect on Messenger](https://www.messenger.com/)
 
 - **Details**: Messenger, bridging connections. Send messages, make calls, share moments, and stay connected with friends and businesses, all within a vibrant and dynamic messaging experience.
 
 
-## **Meta Business Suite** 
+# **Meta Business Suite** 
 
 - **URL**: [Discover Meta Business Suite](https://business.facebook.com/)
 
@@ -75,7 +75,7 @@
 
 ---
 
-## **Instagram** 
+# **Instagram** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/instagram-new.png" alt="Instagram Icon" width="100px"/>
 </div>
@@ -86,7 +86,7 @@
 
 ---
 
-## **WhatsApp Web** 
+# **WhatsApp Web** 
 <div align="center">
     <img src="https://img.icons8.com/color/452/whatsapp--v1.png" alt="WhatsApp Web Icon" width="100px"/>
 </div>
